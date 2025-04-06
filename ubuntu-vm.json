@@ -70,7 +70,7 @@
             "name": "ipconfig1",
             "properties": {
               "subnet": {
-                "id": "[resourceId('Microsoft.Network/virtualNetworks', 'MyVNET', 'subnets', 'Subnet')]"
+                "id": "/subscriptions/de1f3a3d-1294-4994-a308-db9da3600b2e/resourceGroups/instructor-rg/providers/Microsoft.Network/virtualNetworks/MyVNET/subnets/Subnet"
               },
               "privateIPAllocationMethod": "Dynamic"
             }
