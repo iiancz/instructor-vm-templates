@@ -41,7 +41,7 @@
             "publisher": "Canonical",
             "offer": "UbuntuServer",
             "sku": "20.04-LTS",
-            "version": "latest"
+            "version": "20230401"  // Specify a version instead of "latest"
           },
           "osDisk": {
             "createOption": "FromImage"
