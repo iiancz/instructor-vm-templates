@@ -39,9 +39,9 @@
         "storageProfile": {
           "imageReference": {
             "publisher": "Canonical",
-            "offer": "UbuntuServer",
-            "sku": "20.04-LTS",
-            "version": "20230401"  // Specify a version instead of "latest"
+            "offer": "ubuntu-24_04-lts",
+            "sku": "server",
+            "version": "latest"
           },
           "osDisk": {
             "createOption": "FromImage"
